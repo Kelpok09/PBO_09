@@ -10,7 +10,7 @@
      }
      
      function warna_kulit(){
-       return "Warna Klinci putih<br/>";
+       return "Warna Kelinci putih<br/>";
      }
    }
    //instansiasi class hewan
