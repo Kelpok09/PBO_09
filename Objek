@@ -6,11 +6,11 @@
      
      //method hewan
      function tampilkan_nama() {
-       return "Nama kucing herby<br/>";
+       return "Nama Kelinci herby<br/>";
      }
      
      function warna_kulit(){
-       return "Warna kucing hitam<br/>";
+       return "Warna Klinci putih<br/>";
      }
    }
    //instansiasi class hewan
