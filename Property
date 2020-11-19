@@ -1,0 +1,9 @@
+<?php
+//cara penulisan class dan property OOP PHP - @pulung_coding
+   class Kelinci {
+     var $warna;
+     var $merek;
+     var $ukuran;
+     
+   }
+ ?>
