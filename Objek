@@ -6,7 +6,7 @@
      
      //method hewan
      function tampilkan_nama() {
-       return "Nama Kelinci herby<br/>";
+       return "Nama Kelinci hasby<br/>";
      }
      
      function warna_kulit(){
